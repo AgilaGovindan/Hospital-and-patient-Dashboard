@@ -4,7 +4,8 @@ powerbi dashboard :https://drive.google.com/file/d/1QBjOuVbTYB_14OWczIoewwE3aOvn
 https://app.powerbi.com/links/5yxRALJ1ka?ctid=56e571dd-f01e-45e5-8664-e519cb842a59&pbi_source=linkShare&bookmarkGuid=abfbbc9f-81e0-4799-9f7b-0a9e1154ec76
 # Hospital-and-patient-Dashboard
 # Hospital and Patient Dashboard (Power BI)
-
+# Hospital and Patient Dashboard Powerpoint presentation
+https://docs.google.com/presentation/d/1fD8ST7UixvYCk_WdsfVB_hIls3txrH1T/edit?usp=sharing&ouid=111334844466482615503&rtpof=true&sd=true
 ## 📌 Problem Statement
 
 Hospitals generate large volumes of patient, admission, bed utilization, and billing data.  
