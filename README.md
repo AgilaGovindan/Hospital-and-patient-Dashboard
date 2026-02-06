@@ -116,5 +116,3 @@ Built a complete hospital analytics dashboard enabling:
 Agila Govindan  
 Data Analyst  
 
-Agila Govindan  
-Data Analyst  
